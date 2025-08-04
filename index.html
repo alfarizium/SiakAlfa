@@ -207,8 +207,11 @@
         copyButton.addEventListener('click', copyToClipboard);
         
         // --- Initial Setup ---
-        const initialCodes = ['784131-4', '784090-4', '784102-3', '784873-2', '784104-2', '784123-1', '784156-4', '784077-2', '784162-1'];
-        initialCodes.forEach(code => addCourseInput(code));
+        // Start with 5 empty input fields.
+        const numberOfInitialInputs = 5;
+        for (let i = 0; i < numberOfInitialInputs; i++) {
+            addCourseInput();
+        }
         
         // Trigger the update function once on load to populate the textarea initially
         updateCode();
