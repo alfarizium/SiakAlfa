@@ -56,7 +56,7 @@ Untuk Chrome atau Brave
 
 9. Terakhir, ANDA HARUS MENEKAN TOMBOL SUBMIT SENDIRI, lalu periksa IRS Anda untuk memastikan apakah sudah benar-benar tersimpan atau belum. Jika belum, refresh halaman dan klik Submit lagi, dan lagi, dan lagi hingga IRS menampilkan mata kuliah Anda yang sebenarnya.
 
-### Terima kasih khusus untuk hockyy yang telah menyediakan skrip utamanya, jangan lupa untuk mengunjungi halamannya.
+### Terima kasih untuk hockyy yang telah menyediakan skrip utamanya, jangan lupa untuk mengunjungi halamannya.
 
 # English
 
